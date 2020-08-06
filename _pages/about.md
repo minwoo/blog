@@ -1,13 +1,9 @@
 ---
 layout: page
-title: About Me
+title: Minwoo Jeong
 permalink: /about/
 ---
 
-This is where you put the contents of your *About* page. Like all your pages, it's in [Markdown](https://guides.github.com/features/mastering-markdown/) format.
+I'm an applied scientist working on NLP and ML at Microsoft.
 
-This website is powered by **[fastpages](https://github.com/fastai/fastpages)** [^1].
-
-
-
-[^1]:a blogging platform that natively supports Jupyter notebooks in addition to other formats.
+See my [linkedin page](https://www.linkedin.com/in/minwoojeong/).
