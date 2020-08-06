@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Minwoo Jeong
+title: About me
 permalink: /about/
 ---
 
