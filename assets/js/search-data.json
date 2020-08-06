@@ -6,7 +6,7 @@
 
   
       "page1": {
-          "title": "Minwoo Jeong",
+          "title": "About me",
           "content": "I’m an applied scientist working on NLP and ML at Microsoft. . See my linkedin page. .",
           "url": "https://minwoo.page/about/",
           "relUrl": "/about/",
